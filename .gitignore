@@ -1,0 +1,9 @@
+# Java / Maven build output
+target/
+# Angular dependencies and build output
+node_modules/
+dist/
+# IDE settings
+.idea/
+.vscode/
+*.iml
